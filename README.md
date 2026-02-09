@@ -93,3 +93,12 @@ git clone https://github.com/youruser/sales-forecasting.git
 cd sales-forecasting
 pip install -r requirements.txt
 
+-------
+
+
+## 📂 Additional Resources
+
+If some images, code snippets, or files cannot be visualized directly in GitHub, you can access the full project folder here:
+
+[Google Drive Project Folder](https://drive.google.com/file/d/1KT2xJnOEmeWxz98Y0h-bS3vH6ELeyvcm/view?usp=drive_link)
+
