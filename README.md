@@ -89,7 +89,7 @@ This project reflects my ability to structure a complete DS cycle, from business
 ## 📎 How to Run
 Clone the repository and install dependencies:  
 ```bash
-git clone https://github.com/youruser/sales-forecasting.git
+git clone https://github.com/ViviMendez777/-Sales-Forecasting-for-Sports-Retail
 cd sales-forecasting
 pip install -r requirements.txt
 
